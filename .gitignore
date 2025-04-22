@@ -1,1 +1,18 @@
-Learning/
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build outputs
+bin/
+obj/
+*.dll
+*.exe
+
+# Ignore logs and temp
+*.log
+*.tmp
+
+# Optional: ignore other unwanted folders
+node_modules/
+packages/
