@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIUsingPropertyInjextion", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIUsingMethodInjection", "..\DIUsingMethodInjection\DIUsingMethodInjection.csproj", "{C529DE6B-32C9-4459-8129-005540405217}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forGit", "..\forGit\forGit.csproj", "{80FF6FC6-D608-4200-A073-69981CCDC4D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C529DE6B-32C9-4459-8129-005540405217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C529DE6B-32C9-4459-8129-005540405217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C529DE6B-32C9-4459-8129-005540405217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FF6FC6-D608-4200-A073-69981CCDC4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FF6FC6-D608-4200-A073-69981CCDC4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FF6FC6-D608-4200-A073-69981CCDC4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FF6FC6-D608-4200-A073-69981CCDC4D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
